@@ -1,0 +1,6 @@
+{
+  "name": "AI Background Remover",
+  "description": "A high-performance web application that removes backgrounds from images instantly and accurately using advanced client-side AI, with options for custom backdrops and creative editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
